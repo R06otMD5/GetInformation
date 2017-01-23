@@ -1,1 +1,2 @@
 # GetInformation
+python main.py
